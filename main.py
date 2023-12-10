@@ -4,5 +4,6 @@ try:
     print("Sum", number1 + number2)
     print("Difference", number1 - number2)
     print("Product", number1 * number2)
+
 except Exception as e:
     print (e)
