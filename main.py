@@ -6,6 +6,5 @@ try:
         print("Error")
     else:
         print("Площа дорівнює", number1 * number2 / number3)
-
 except Exception as e:
     print (e)
